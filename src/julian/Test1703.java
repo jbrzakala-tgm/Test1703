@@ -8,3 +8,5 @@ public class Test1703 {
 	}
 
 }
+/** git@github.com:jbrzakala/Test1703.git
+*/
